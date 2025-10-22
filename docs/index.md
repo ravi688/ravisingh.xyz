@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to my personal website
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Following are links to my project's documentations
+### Build Master
+A meson build file generator from json, it adds many other features on top of meson.
+Link: https://buildmaster.ravisingh.xyz
+### CommonLib (C++ Utility Library)
+CommonLib is a C++ utility library used across all of my projects based on C++.
+Link: https://commonlib.ravisingh.xyz
+### VulkanRenderer
+VulkanRenderer (a.k.a SGE) is a 3D and 2D Rendering library written in C.
+Link: https://sge.ravisingh.xyz
+### NetSocket
+Cross platform network Sockets, supports Linux and Windows, written in C++.
+Link: https://netsocket.ravisingh.xyz
